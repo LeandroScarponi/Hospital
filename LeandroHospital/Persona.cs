@@ -16,7 +16,6 @@ namespace LeandroHospital
 
         public Persona(string pNombre, string pApellido)
         {
-            
             Nombre = pNombre;
             Apellido = pApellido;
         }

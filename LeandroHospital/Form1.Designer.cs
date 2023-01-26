@@ -40,15 +40,15 @@ namespace LeandroHospital
             this.label1.AutoSize = true;
             this.label1.Location = new System.Drawing.Point(327, 36);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(116, 17);
+            this.label1.Size = new System.Drawing.Size(113, 16);
             this.label1.TabIndex = 0;
             this.label1.Text = "VER PERSONAS";
             // 
             // btnMedicos
             // 
-            this.btnMedicos.Location = new System.Drawing.Point(82, 213);
+            this.btnMedicos.Location = new System.Drawing.Point(82, 188);
             this.btnMedicos.Name = "btnMedicos";
-            this.btnMedicos.Size = new System.Drawing.Size(99, 23);
+            this.btnMedicos.Size = new System.Drawing.Size(120, 48);
             this.btnMedicos.TabIndex = 1;
             this.btnMedicos.Text = "MEDICOS";
             this.btnMedicos.UseVisualStyleBackColor = true;
@@ -56,9 +56,9 @@ namespace LeandroHospital
             // 
             // btnPacientes
             // 
-            this.btnPacientes.Location = new System.Drawing.Point(573, 213);
+            this.btnPacientes.Location = new System.Drawing.Point(587, 188);
             this.btnPacientes.Name = "btnPacientes";
-            this.btnPacientes.Size = new System.Drawing.Size(94, 23);
+            this.btnPacientes.Size = new System.Drawing.Size(120, 48);
             this.btnPacientes.TabIndex = 2;
             this.btnPacientes.Text = "PACIENTES";
             this.btnPacientes.UseVisualStyleBackColor = true;
@@ -66,9 +66,9 @@ namespace LeandroHospital
             // 
             // btnPersonas
             // 
-            this.btnPersonas.Location = new System.Drawing.Point(330, 213);
+            this.btnPersonas.Location = new System.Drawing.Point(330, 188);
             this.btnPersonas.Name = "btnPersonas";
-            this.btnPersonas.Size = new System.Drawing.Size(113, 23);
+            this.btnPersonas.Size = new System.Drawing.Size(120, 48);
             this.btnPersonas.TabIndex = 3;
             this.btnPersonas.Text = "PERSONAS";
             this.btnPersonas.UseVisualStyleBackColor = true;
